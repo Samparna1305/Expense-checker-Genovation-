@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpendSmart — Expense Tracker
 
 A full-stack personal finance application with income/expense tracking, analytics, and CSV export.
@@ -165,3 +166,7 @@ The app will open automatically at `http://localhost:3000`
 **Frontend shows blank page?**
 - Make sure backend is running first
 - Check the browser console for errors
+=======
+# Expense-checker-Genovation-
+All the files for Expense-checker project
+>>>>>>> 8050a087ff8f9c60a9ca578cb986b555c6e14f86
